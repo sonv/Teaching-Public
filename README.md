@@ -1,5 +1,5 @@
-# Teaching-Public
-This repository contains general information of the classes I have taught
+This repository contains general information of the classes I have taught.
+For a specific course that you're looking for, please click through the directories above.
 
 ### University of Pennsylvania
 

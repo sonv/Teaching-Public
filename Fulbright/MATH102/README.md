@@ -1,6 +1,6 @@
 ---
 title: 'Fall 2022: Math 102, Ideas of Mathematics'
-description: Fall 2021 teaching
+description: Fall 2022 teaching
 toc: true
 authors:
 tags:
@@ -9,8 +9,8 @@ series:
 lastmod: '2022-08-25'
 
 This is the repository hosting some of the materials
-relating to the coding part of the course Introduction to
-Data Analysis, taught by SV at Fulbright University Vietnam.
+relating to the coding part of the course Ideas of Mathematics,
+taught by SV at Fulbright University Vietnam.
 
 ---
 ## Key info

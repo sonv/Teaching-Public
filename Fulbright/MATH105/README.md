@@ -1,6 +1,6 @@
 ---
-title: 'Fall 2022: Math 102, Ideas of Mathematics'
-description: Fall 2021 teaching
+title: 'Fall 2022: Math 105, Introduction to Data Analysis'
+description: Fall 2022 teaching
 toc: true
 authors:
 tags:
@@ -17,7 +17,7 @@ Data Analysis, taught by SV at Fulbright University Vietnam.
 
 **Lectures:** 
 
-**Instructor:** Truong-Son Van, &emsp; **Email:** son.van+102@fulbright.edu.vn, &emsp; 
+**Instructor:** Truong-Son Van, &emsp; **Email:** son.van+105@fulbright.edu.vn, &emsp; 
 
 **Office Hours (Instructor):** TBD 
 

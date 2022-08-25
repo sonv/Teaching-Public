@@ -14,7 +14,7 @@ enableMath: true
 ## Key info
 
 **Lectures:** 
-Section 2: MWF, DRLB A2, [Livestream](https://www.twitch.tv/vanmathman), 1:45pm-2:45pm
+Section 2: MWF, DRLB A2,  1:45pm-2:45pm
 
 Section 601: MW, DRLB 2C4, 7:00pm-8:30pm
 

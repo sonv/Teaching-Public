@@ -15,7 +15,7 @@ taught by SV at Fulbright University Vietnam.
 ---
 ## Key info
 
-**Lectures:** 
+**Lectures:**  Fri, 9:00a-12:00p, CR 502
 
 **Instructor:** Truong-Son Van, &emsp; **Email:** son.van+102@fulbright.edu.vn, &emsp; 
 

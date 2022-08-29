@@ -111,17 +111,21 @@ You will **NOT** be penalized for consulting outside sources as long as you cred
 - Project: 30% 
 
 ## Wellness
-In general, take good care of your health. 
-You're a human being first, before a student.
-Your academinc performance will be affected if you are not in good health.
+-In general, take good care of your health. 
+-You're a human being first, before a student.
+-Your academinc performance will be affected if you are not in good health.
+- You can contact the Wellness Center via [wellness@fulbright.edu.vn](mailto:wellness@fulbright.edu.vn) or find us at the Wellness Center office on the Level 5 of our Crescent campus.
+
 
 ## Academic Integrity
-Please read the [Code of Academic Integrity](https://onestop.fulbright.edu.vn/s/article/Violations-of-The-Code-of-Academic-Integrity) carefully.
+-Please read the [Code of Academic Integrity](https://onestop.fulbright.edu.vn/s/article/Violations-of-The-Code-of-Academic-Integrity) carefully.
 
-Cheating will **NOT** be tolerated and will be reported to the Office of Student Conduct.
-In the worst case, it can result in expulsion.
+-Cheating will **NOT** be tolerated and will be reported to the Office of Student Conduct. In the worst case, it can result in expulsion.
 
 That said, make sure you keep the following points:
 - Discussing homework is not cheating and strongly encouraged.
 - You need to write up your own solutions after discussions. Word-by-word copying is cheating.
+
+## Accessibility Learning Service
+Fulbright University Vietnam commits to providing excellent student-centered services that supports diversity, inclusivity, and accessibility where the student’s voice and presence matters. Accessibility Learning Service provides support for students with conditions, including disability, long-term illness, mental health condition or being primary carers of individuals with a disability. ALS can meet with you to develop individualized learning plan, share your plan with your professors and provide continuing support if necessary. You can contact us at [wellness@fulbright.edu.vn](mailto:wellness@fulbright.edu.vn).
 

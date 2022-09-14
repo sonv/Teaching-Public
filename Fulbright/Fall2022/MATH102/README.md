@@ -110,7 +110,7 @@ You will **NOT** be penalized for consulting outside sources as long as you cred
 - Homework: 40%
 - Historical essay: 20%
 - Project: 20% 
-- Reflection" 20%
+- Reflection: 20%
 
 ## Wellness
 -In general, take good care of your health. 

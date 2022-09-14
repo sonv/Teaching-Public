@@ -107,8 +107,10 @@ You will **NOT** be penalized for consulting outside sources as long as you cred
 
 
 ### Grading (subject to change)
-- Homework: 70%
-- Project: 30% 
+- Homework: 40%
+- Historical essay: 20%
+- Project: 20% 
+- Reflection" 20%
 
 ## Wellness
 -In general, take good care of your health. 

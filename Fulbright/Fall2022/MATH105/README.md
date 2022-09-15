@@ -38,6 +38,7 @@ Some homework, however, will be taken from these texts. I'll make
 sure you have access to the homework questions by one way or another.
 - Introductory Statistics: A Problem-Solving Approach, by Stephen Kokoska.
 - An introcution to Statistical Methods & Data Analysis, by Ott and Longnecker.
+- [OpenIntro Statistics](https://leanpub.com/os) by Diez, Cetinkaya-Rundel, and Barr
 
 ## Course description
 How do we know which Covid-19 vaccine is better? Which combination of policies could help promoting start-up companies? These questions could be answered with the help of Data analysis. Social scientists need to process survey results. Natural scientists want to analyze experiment's outcomes. Modern statistical methods and state of the art computing software can help finding valuable information from a large and confusing data set. This course will provide students with basic statistics concepts and practical coding skill in Python. Students will be able to describe and find characteristic of the data, explore, and confirm relationship among data, and draw answer for questions from their own discipline via hand-on experience with various projects. Some main topics are data visualization, descriptive statistics, parameter estimation, parametric and non-parametric hypothesis testing, ANOVA. A strong background in Mathematics or Computer Science is not required, just a desire to learn is enough.

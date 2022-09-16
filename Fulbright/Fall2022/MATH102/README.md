@@ -72,44 +72,43 @@ At the least, if you don't like the awkward silence, strike a conversation about
 not computations (although computations play a big part in the usefulness of mathematics).
 
 ## Tentative Syllabus (subject to change)
+1.	Logic
+    a. Axioms, predicates, propositional formula
+    b. Variables, logical operators, quantifiers, truth table
 
-    1.	Logic
-        a. Axioms, predicates, propositional formula
-        b. Variables, logical operators, quantifiers, truth table
+2.	Sets
+    a. Sets
+    b. Set operations
 
-    2.	Sets
-        a. Sets
-        b. Set operations
+3.	Functions
+    a. Functions
+    b. Injections and surjections
 
-    3.	Functions
-        a. Functions
-        b. Injections and surjections
+4.	Mathematical induction
+    a. Peano’s axioms
+    b. Weak induction
+    c. Strong induction
 
-    4.	Mathematical induction
-        a. Peano’s axioms
-        b. Weak induction
-        c. Strong induction
- 
-	5. 	Number theory (optional)
-		a. Division
-		b. Prime numbers
-		c. Modular arithmetic
+5. 	Number theory (optional)
+    a. Division
+    b. Prime numbers
+    c. Modular arithmetic
 
-    6.	Graph theory (optional)
-        a. Basic Definitions and Examples, Eulerian Walks and Hamiltonian Cycles
-        b. Coloring maps
-        c.  Chromatic polynomial of a graph
-        d.  Euler characteristics
+6.	Graph theory (optional)
+    a. Basic Definitions and Examples, Eulerian Walks and Hamiltonian Cycles
+    b. Coloring maps
+    c.  Chromatic polynomial of a graph
+    d.  Euler characteristics
 
-	7. 	Real numbers
-		a. Inequalities and means
-		b. Completeness and convergence
-		c. Series and sums
+7. 	Real numbers
+    a. Inequalities and means
+    b. Completeness and convergence
+    c. Series and sums
 
-	8. 	Infinity
-		a. Countable and uncountable sets
-		c. Cardinality
-		d. Cardinal arithmetic
+8. 	Infinity
+    a. Countable and uncountable sets
+    c. Cardinality
+    d. Cardinal arithmetic
 
 
 

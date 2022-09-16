@@ -1,3 +1,4 @@
+# Introduction and descriptive statistics
 ## What to expect 
 - Getting to know about data/statistics
 - Sampling, basic descriptive statistics

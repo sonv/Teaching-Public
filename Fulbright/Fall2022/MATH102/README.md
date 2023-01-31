@@ -19,9 +19,6 @@ taught by SV at Fulbright University Vietnam.
 
 **Instructor:** Truong-Son Van, &emsp; **Email:** son.van+102@fulbright.edu.vn, &emsp; 
 
-**Office Hours (Instructor):** TBD 
-
-**TA:** TBD, &emsp; **Office Hours (TA):**
 
 **Prerequisites:** being curious.
 

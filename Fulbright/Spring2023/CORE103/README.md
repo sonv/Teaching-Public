@@ -7,11 +7,9 @@ tags:
 categories:
 series:
 lastmod: '2023-01-31'
-
+---
 This is the repository hosting some of the materials
 relating to the coding part of the course Ideas of Mathematics,
 taught by SV at Fulbright University Vietnam.
-
----
 
 Everything about this course is on Canvas.
